@@ -1,4 +1,4 @@
-Just a CS student trying out new things. Interests include cyber security , web development and roguelite games.
+Just a CS grad trying out new things. Interests include cyber security , web development , roguelite games and ml.
 
 <!---
 ShuffledSeal/ShuffledSeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
